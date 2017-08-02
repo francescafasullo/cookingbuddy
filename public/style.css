@@ -1,0 +1,81 @@
+body {
+  background-color: #BFD8D2;
+  background-size: cover;
+  font-family: 'Poppins', sans-serif;
+}
+
+nav {
+  background-color: white;
+  padding-left: 10px;
+}
+
+.navbar-brand {
+  color: #222222;
+}
+
+nav li {
+  display: inline;
+  color: white;
+  margin-right: 10px;
+  margin-top: 16px;
+}
+
+nav ul {
+  padding: 0px;
+}
+
+.nav-item a {
+  color: #222222;
+}
+
+.navbar-nav>li>a {
+  color: #DF744A;
+}
+
+.hide {
+  display: none !important;
+}
+
+.btn-warning {
+  margin-bottom: 10px;
+}
+
+.help {
+  margin-top: 50px;
+}
+
+.recipe-link {
+  color: white;
+}
+
+.recipes-list {
+  color: #DF744A;
+}
+
+.overview {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+  text-align: center;
+}
+
+.overview:hover {
+  color: #FEDCD2;
+  text-decoration: none;
+}
+
+.recipes-list {
+  text-align: center;
+}
+
+.resource {
+  color: #DF744A;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.form-check-input {
+  margin-right: 10px;
+}

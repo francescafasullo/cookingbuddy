@@ -1,5 +1,5 @@
 {
-  "name": "__BONES_NEEDS_A_NAME__",
+  "name": "cookingbuddy",
   "version": "0.0.1",
   "description": "A happy little skeleton.",
   "main": "index.js",
@@ -56,6 +56,7 @@
     "express": "^4.14.0",
     "finalhandler": "^1.0.0",
     "homedir": "^0.6.0",
+    "jquery": "^3.2.1",
     "passport": "^0.3.2",
     "passport-facebook": "^2.1.1",
     "passport-github2": "^0.1.10",
@@ -64,16 +65,22 @@
     "pg": "^6.1.0",
     "pretty-error": "^2.0.2",
     "react": "^15.3.2",
+    "react-countdown-clock": "^1.1.0",
     "react-dom": "^15.3.2",
+    "react-player": "^0.18.0",
     "react-redux": "^4.4.5",
     "react-router": "^3.0.0",
+    "react-sound": "^0.6.1",
+    "react-soundcloud-player": "^1.0.1",
     "redux": "^3.6.0",
     "redux-devtools-extension": "^2.13.0",
     "redux-logger": "^2.7.0",
     "redux-thunk": "^2.1.0",
     "sequelize": "^3.24.6",
     "sinon": "^1.17.6",
-    "sinon-chai": "^2.8.0"
+    "sinon-chai": "^2.8.0",
+    "twilio": "^3.4.0",
+    "whatwg-fetch": "^2.0.3"
   },
   "devDependencies": {
     "babel": "^6.5.2",
